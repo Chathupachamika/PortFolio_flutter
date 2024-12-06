@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.portf.app-mergeDebugResources-25:/values-ja/values-ja.xml",
+            "outputFile": "com.example.portfol.app-mergeDebugResources-24:/values-ja/values-ja.xml",
             "map": [
                 {
                     "source": "C:\\Users\\CHATHUPA CHAMIKA\\.gradle\\caches\\transforms-3\\28ee8a5ebc96d117de5598ee6fce01ba\\transformed\\core-1.13.1\\res\\values-ja\\values-ja.xml",
@@ -11,30 +11,6 @@
                         "startOffsets": "55,147,247,341,437,530,623,724",
                         "endColumns": "91,99,93,95,92,92,100,100",
                         "endOffsets": "142,242,336,432,525,618,719,820"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,13",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,147,247,341,437,530,623,1108",
-                        "endColumns": "91,99,93,95,92,92,100,100",
-                        "endOffsets": "142,242,336,432,525,618,719,1204"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\CHATHUPA CHAMIKA\\.gradle\\caches\\transforms-3\\6bf7b9bec3a755c3e68569d2ddbec360\\transformed\\browser-1.8.0\\res\\values-ja\\values-ja.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,148,243,344",
-                        "endColumns": "92,94,100,94",
-                        "endOffsets": "143,238,339,434"
-                    },
-                    "to": {
-                        "startLines": "9,10,11,12",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "724,817,912,1013",
-                        "endColumns": "92,94,100,94",
-                        "endOffsets": "812,907,1008,1103"
                     }
                 }
             ]

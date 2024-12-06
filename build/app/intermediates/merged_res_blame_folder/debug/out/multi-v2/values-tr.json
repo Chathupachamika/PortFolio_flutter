@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.portf.app-mergeDebugResources-25:/values-tr/values-tr.xml",
+            "outputFile": "com.example.portfol.app-mergeDebugResources-24:/values-tr/values-tr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\CHATHUPA CHAMIKA\\.gradle\\caches\\transforms-3\\28ee8a5ebc96d117de5598ee6fce01ba\\transformed\\core-1.13.1\\res\\values-tr\\values-tr.xml",
@@ -11,30 +11,6 @@
                         "startOffsets": "55,152,254,352,449,551,657,768",
                         "endColumns": "96,101,97,96,101,105,110,100",
                         "endOffsets": "147,249,347,444,546,652,763,864"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,13",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,152,254,352,449,551,657,1187",
-                        "endColumns": "96,101,97,96,101,105,110,100",
-                        "endOffsets": "147,249,347,444,546,652,763,1283"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\CHATHUPA CHAMIKA\\.gradle\\caches\\transforms-3\\6bf7b9bec3a755c3e68569d2ddbec360\\transformed\\browser-1.8.0\\res\\values-tr\\values-tr.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,155,261,368",
-                        "endColumns": "99,105,106,105",
-                        "endOffsets": "150,256,363,469"
-                    },
-                    "to": {
-                        "startLines": "9,10,11,12",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "768,868,974,1081",
-                        "endColumns": "99,105,106,105",
-                        "endOffsets": "863,969,1076,1182"
                     }
                 }
             ]

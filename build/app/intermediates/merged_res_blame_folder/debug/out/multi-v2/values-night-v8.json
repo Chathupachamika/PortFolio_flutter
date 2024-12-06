@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.portf.app-mergeDebugResources-25:/values-night-v8/values-night-v8.xml",
+            "outputFile": "com.example.portfol.app-mergeDebugResources-24:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\ICD110\\flutter\\portf\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "D:\\ICD110\\flutter\\portfol\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

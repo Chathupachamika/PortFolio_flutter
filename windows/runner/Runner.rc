@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "portf" "\0"
+            VALUE "FileDescription", "portfol" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "portf" "\0"
+            VALUE "InternalName", "portfol" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "portf.exe" "\0"
-            VALUE "ProductName", "portf" "\0"
+            VALUE "OriginalFilename", "portfol.exe" "\0"
+            VALUE "ProductName", "portfol" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

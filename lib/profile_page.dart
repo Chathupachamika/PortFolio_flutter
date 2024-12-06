@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:portf/profile_header.dart';
-import 'package:portf/skills_section.dart';
+import 'package:portfol/profile_header.dart';
+import 'package:portfol/skills_section.dart';
 
 import 'about_section.dart';
 import 'education_section.dart';
